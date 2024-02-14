@@ -10,7 +10,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-justine_pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/justine-pham-bbb953a3/)
 [![Gmail Badge](https://img.shields.io/badge/-tinemanalili@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:tinemanalili@gmail.com)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
