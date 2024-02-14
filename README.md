@@ -1,7 +1,7 @@
 
 <h3 align='center'> ### Hi there 👋 :slightly_smiling_face:</h3>
 
-[![Header](https://images6.alphacoders.com/124/thumb-350-1243346.png "Header")]
+[![Header](https://images6.alphacoders.com/124/1243346.png "Header")]
 
 [![Linkedin Badge](https://img.shields.io/badge/-justine_pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/justine-pham-bbb953a3/)
 [![Gmail Badge](https://img.shields.io/badge/-tinemanalili@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:tinemanalili@gmail.com)
