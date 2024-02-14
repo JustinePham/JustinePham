@@ -1,7 +1,9 @@
 
-<h3 align='center'> ### Hi there 👋 :slightly_smiling_face:</h3>
+<h3 align='center'> ### Hi there 👋 :slightly_smiling_face: I'm Justine</h3>
 
 [![Header](https://images6.alphacoders.com/124/1243346.png "Header")]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinePham&theme=blue-green)]()
 
 <br>
 
@@ -9,6 +11,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-tinemanalili@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:tinemanalili@gmail.com)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
