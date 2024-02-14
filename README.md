@@ -1,9 +1,12 @@
 
 <h3 align='center'> ### Hi there 👋 :slightly_smiling_face:</h3>
+[![Header](https://images6.alphacoders.com/124/1243346.png "Header")]()
 
 [![Linkedin Badge](https://img.shields.io/badge/-justine_pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/justine-pham-bbb953a3/)
 [![Gmail Badge](https://img.shields.io/badge/-tinemanalili@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:tinemanalili@gmail.com)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
