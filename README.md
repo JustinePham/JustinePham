@@ -26,6 +26,15 @@
 ![SasS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <br>
+
+- 🔭 I’m currently working on ...
+- A small 2D pixel game in C# Unity
+- NxtESG service for Transparency Act Reporting in Svelte.js
+  
+- 🌱 I’m currently learning ...
+- React
+- game development in C#
+
 <!--
 **JustinePham/JustinePham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
